@@ -1,6 +1,6 @@
 This is the repository corresponding to the Reinforcement Learning course project. 
 
-The project, "Studying the Flockig of Birds from a Multi-Agenet Reinforcement Learning (MARL) Perspective", explores whether an MARL framework is capable of reproducing emergent flocking behaviors, such as alignment, in a collecctive of birds.
+The project, "Studying the Flockig of Birds from a Multi-Agenet Reinforcement Learning (MARL) Perspective", uses the Q-learning algorithm in an MARL framework to explore whether it is capable of reproducing emergent flocking behaviors, such as alignment, in a collecctive of birds.
 
 The work builds heavily on [andredelft/flock-learning](https://github.com/andredelft/flock-learning) and introduces a slight modification to the original codebase. In particular, we add a cost associated with bird collisions and compare the resulting behavior with that obtained in the absence of penalty.
 
