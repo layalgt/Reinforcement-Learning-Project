@@ -1,7 +1,9 @@
-Below, is a brief description of the project for the Reinforcement Learning course at ICTP, QLS section, July 2025
+This is the repository corresponding to the Reinforcement Learning course project. 
 
-The title project is "Studying the Flockig of Birds from a Multi-Agenet Reinforcement Learning Perspective"
+The project, "Studying the Flockig of Birds from a Multi-Agenet Reinforcement Learning (MARL) Perspective", explores whether an MARL framework is capable of reproducing emergent flocking behaviors, such as alignment in a collecctive of birds.
 
-This project is based heavily on [andredelft/flock-learning](https://github.com/andredelft/flock-learning) where we use the same code but add a cost to the reward resulting from the collision of two birds.
+The work builds heavily on [andredelft/flock-learning](https://github.com/andredelft/flock-learning) and introduces a slight modification to the original codebase. In particular, we add a cost associated with bird collisions and compare the resulting behavior with that obtained in the absence of penalty.
 
-Note: On the use of AI, I used ChatGPT for help in commands related to creating zip files to save the generated results, as well as for obtaining proper image scaling like figsize etc...
+Note on the use of AI: ChatGPT was used to assist with technical commands related to creating ZIP files for saving generated results, and for adjusting image scaling parameters.
+
+ICTP, QLS, June 2025
