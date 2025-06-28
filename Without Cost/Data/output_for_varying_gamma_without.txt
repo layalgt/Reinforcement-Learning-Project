@@ -1,0 +1,240 @@
+Running simulation with gamma = 0.0
+Record files with tag 20250623-195502 initalized
+Delta = 0.5005121170553269
+Recorded up to timestep 0
+Delta = 0.496203322664228
+Recorded up to timestep 500
+Delta = 0.49324798049077884
+Recorded up to timestep 1000
+Delta = 0.4903551287913428
+Recorded up to timestep 1500
+Delta = 0.4880124980948026
+Recorded up to timestep 2000
+Delta = 0.4862901996646853
+Recorded up to timestep 2500
+Delta = 0.48444444444444446
+Recorded up to timestep 3000
+Delta = 0.4831580551745161
+Recorded up to timestep 3500
+Delta = 0.48187776253619874
+Recorded up to timestep 4000
+Delta = 0.4804877305288828
+Recorded up to timestep 4500
+Delta = 0.479254686785551
+Recorded up to timestep 5000
+Running simulation with gamma = 0.1
+Record files with tag 20250623-195537 initalized
+Delta = 0.4997195549458924
+Recorded up to timestep 0
+Delta = 0.4947965249199817
+Recorded up to timestep 500
+Delta = 0.49068891937204695
+Recorded up to timestep 1000
+Delta = 0.4877000457247371
+Recorded up to timestep 1500
+Delta = 0.4852674897119342
+Recorded up to timestep 2000
+Delta = 0.48363206828227406
+Recorded up to timestep 2500
+Delta = 0.4816308489559518
+Recorded up to timestep 3000
+Delta = 0.48079256210943455
+Recorded up to timestep 3500
+Delta = 0.47971040999847586
+Recorded up to timestep 4000
+Delta = 0.47849260783417163
+Recorded up to timestep 4500
+Delta = 0.47740588324950467
+Recorded up to timestep 5000
+Running simulation with gamma = 0.2
+Record files with tag 20250623-195611 initalized
+Delta = 0.5001371742112483
+Recorded up to timestep 0
+Delta = 0.4954290504496266
+Recorded up to timestep 500
+Delta = 0.4924477975918305
+Recorded up to timestep 1000
+Delta = 0.48962658131382414
+Recorded up to timestep 1500
+Delta = 0.488250266727633
+Recorded up to timestep 2000
+Delta = 0.48556165218716657
+Recorded up to timestep 2500
+Delta = 0.48399481786313064
+Recorded up to timestep 3000
+Delta = 0.4823136716963877
+Recorded up to timestep 3500
+Delta = 0.4810028959000152
+Recorded up to timestep 4000
+Delta = 0.4798841639993903
+Recorded up to timestep 4500
+Delta = 0.4790199664685261
+Recorded up to timestep 5000
+Running simulation with gamma = 0.30000000000000004
+Record files with tag 20250623-195643 initalized
+Delta = 0.49952903520804753
+Recorded up to timestep 0
+Delta = 0.4940877914951989
+Recorded up to timestep 500
+Delta = 0.49027434842249656
+Recorded up to timestep 1000
+Delta = 0.4878875171467764
+Recorded up to timestep 1500
+Delta = 0.4846730681298583
+Recorded up to timestep 2000
+Delta = 0.48279225727785396
+Recorded up to timestep 2500
+Delta = 0.4811263526901387
+Recorded up to timestep 3000
+Delta = 0.47972869989330896
+Recorded up to timestep 3500
+Delta = 0.4781283340954123
+Recorded up to timestep 4000
+Delta = 0.4768282274043591
+Recorded up to timestep 4500
+Delta = 0.47556317634506934
+Recorded up to timestep 5000
+Running simulation with gamma = 0.4
+Record files with tag 20250623-195718 initalized
+Delta = 0.5005669867398262
+Recorded up to timestep 0
+Delta = 0.4950815424477976
+Recorded up to timestep 500
+Delta = 0.4913183965858863
+Recorded up to timestep 1000
+Delta = 0.48833561957018745
+Recorded up to timestep 1500
+Delta = 0.4859533607681756
+Recorded up to timestep 2000
+Delta = 0.4836229233348575
+Recorded up to timestep 2500
+Delta = 0.48209114464258496
+Recorded up to timestep 3000
+Delta = 0.4806096631611035
+Recorded up to timestep 3500
+Delta = 0.47929736320682825
+Recorded up to timestep 4000
+Delta = 0.47761164456637706
+Recorded up to timestep 4500
+Delta = 0.4762962962962963
+Recorded up to timestep 5000
+Running simulation with gamma = 0.5
+Record files with tag 20250623-195752 initalized
+Delta = 0.4994497789971041
+Recorded up to timestep 0
+Delta = 0.49348422496570643
+Recorded up to timestep 500
+Delta = 0.49004115226337447
+Recorded up to timestep 1000
+Delta = 0.4871543971955495
+Recorded up to timestep 1500
+Delta = 0.48532693187014175
+Recorded up to timestep 2000
+Delta = 0.4829324798049078
+Recorded up to timestep 2500
+Delta = 0.48088553574150283
+Recorded up to timestep 3000
+Delta = 0.4796601127876848
+Recorded up to timestep 3500
+Delta = 0.47877610120408476
+Recorded up to timestep 4000
+Delta = 0.4771543971955495
+Recorded up to timestep 4500
+Delta = 0.475938119189148
+Recorded up to timestep 5000
+Running simulation with gamma = 0.6000000000000001
+Record files with tag 20250623-195826 initalized
+Delta = 0.49925925925925924
+Recorded up to timestep 0
+Delta = 0.49443225118122236
+Recorded up to timestep 500
+Delta = 0.49102880658436215
+Recorded up to timestep 1000
+Delta = 0.48834781283340956
+Recorded up to timestep 1500
+Delta = 0.4853132144490169
+Recorded up to timestep 2000
+Delta = 0.4834339277549154
+Recorded up to timestep 2500
+Delta = 0.4815805517451608
+Recorded up to timestep 3000
+Delta = 0.47984606005182134
+Recorded up to timestep 3500
+Delta = 0.4784087791495199
+Recorded up to timestep 4000
+Delta = 0.4772748056698674
+Recorded up to timestep 4500
+Delta = 0.47633135192805975
+Recorded up to timestep 5000
+Running simulation with gamma = 0.7000000000000001
+Record files with tag 20250623-195859 initalized
+Delta = 0.4996189605243103
+Recorded up to timestep 0
+Delta = 0.49418533760097544
+Recorded up to timestep 500
+Delta = 0.4899253162627648
+Recorded up to timestep 1000
+Delta = 0.48736473098613015
+Recorded up to timestep 1500
+Delta = 0.48527206218564245
+Recorded up to timestep 2000
+Delta = 0.4836229233348575
+Recorded up to timestep 2500
+Delta = 0.48201950922115533
+Recorded up to timestep 3000
+Delta = 0.48047401310775795
+Recorded up to timestep 3500
+Delta = 0.4789147995732358
+Recorded up to timestep 4000
+Delta = 0.4777488187776254
+Recorded up to timestep 4500
+Delta = 0.4767550678250267
+Recorded up to timestep 5000
+Running simulation with gamma = 0.8
+Record files with tag 20250623-195933 initalized
+Delta = 0.5006980643194635
+Recorded up to timestep 0
+Delta = 0.4962566681908246
+Recorded up to timestep 500
+Delta = 0.4927709190672154
+Recorded up to timestep 1000
+Delta = 0.48999390336838894
+Recorded up to timestep 1500
+Delta = 0.4880384087791495
+Recorded up to timestep 2000
+Delta = 0.48579942081999694
+Recorded up to timestep 2500
+Delta = 0.4846014327084286
+Recorded up to timestep 3000
+Delta = 0.48293857643651883
+Recorded up to timestep 3500
+Delta = 0.4812010364273739
+Recorded up to timestep 4000
+Delta = 0.4796723060509069
+Recorded up to timestep 4500
+Delta = 0.4780338363054412
+Recorded up to timestep 5000
+Running simulation with gamma = 0.9
+Record files with tag 20250623-200006 initalized
+Delta = 0.49986587410455724
+Recorded up to timestep 0
+Delta = 0.49477213839353756
+Recorded up to timestep 500
+Delta = 0.4916399939033684
+Recorded up to timestep 1000
+Delta = 0.488515470202713
+Recorded up to timestep 1500
+Delta = 0.48617131534827007
+Recorded up to timestep 2000
+Delta = 0.4843606157597927
+Recorded up to timestep 2500
+Delta = 0.48217344916933397
+Recorded up to timestep 3000
+Delta = 0.48050449626581315
+Recorded up to timestep 3500
+Delta = 0.4789696692577351
+Recorded up to timestep 4000
+Delta = 0.4775369608291419
+Recorded up to timestep 4500
+Delta = 0.4760935832952294
+Recorded up to timestep 5000
