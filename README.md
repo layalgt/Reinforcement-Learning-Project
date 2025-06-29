@@ -5,7 +5,7 @@ The project, "Studying the Flockig of Birds from a Multi-Agenet Reinforcement Le
 The work builds heavily on [andredelft/flock-learning](https://github.com/andredelft/flock-learning) and introduces a slight modification to the original codebase. Namely, we add a cost associated with bird collisions and compare the resulting behavior with that obtained in the absence of penalty.
 
 
-The classes [birds](birds.py) and [field](field.py) have been updated in order to include the effect of the cost mentioned above (which was not present in the original codebae). The code used and the geenrated data and plots have been organized in separate folders for convenience. They can be respectively found here:
+The classes [birds](birds.py) and [field](field.py) have been updated in order to include the effect of the cost mentioned above. The code used and the geenrated data and plots have been organized in separate folders for convenience. They can be respectively found here:
 [without cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/46395d31d13ad643b41fb04fa4e2bbfd6f89b76b/With%20Cost) and [with cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/c3dff627de1ec89de4f970ba6b436d804fa5e72f/With%20Cost).
 
 
