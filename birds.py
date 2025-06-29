@@ -11,7 +11,7 @@ from scipy.spatial import KDTree
 from bisect import bisect_left
 import time
 
-#calling the function that performs/ contains the Q-learning algorithm
+#calling the function that performs
 from q_learning import Qfunction
 
 #Initializing the parameters related to birds
@@ -39,7 +39,7 @@ STEPS = [np.array([round(np.cos(theta), 5), round(np.sin(theta), 5)]) for theta 
 TRESHOLD = 0.9 * np.linalg.norm(STEPS[0] + STEPS[(NO_DIRS//2) + 1])
 
 #Set of actions:
-#V: stands for Vicsek-like interaction where birds will align themselves along the average flight diirection - this is typical of followers
+#V: stands for Vicsek-like interaction where birds will align themselves along the average flight direction - this is typical of followers
 #I: stands for Instinct where birds will follow their intinct - flying along one of the 4 cardinal directions (N, S, E, W) - this is typical of leaders
 A = ['V', 'I']
 
@@ -211,14 +211,14 @@ class Birds(object):
             self.instincts = instincts
         else:
             self.instincts = (
-                self.leaders * ['E']   #leaders fly in the East direction by construction
+                self.leaders * ['E']   #leaders fly in the East direction by construction (for simplicity bc theta = 0)
                 + choices(['N', 'S', 'W'], k=self.numbirds - self.leaders)   #followers get a  random direction
             )
 
         self.action_space = action_space
         self.observation_space = observation_space
         self.reward_signal = reward_signal
-        self.gradient = gradient_reward   #for gradient reward, but we will keep it False throughout this implementation
+        self.gradient = gradient_reward   #for gradient reward, but we will keep it False throughout the simulations
         self.observation_radius = observation_radius
         self.learning_alg = learning_alg  #Will be Q-learning
 
@@ -314,7 +314,7 @@ class Birds(object):
                close_birds.remove(i)
             self.collisions[i] = len(close_birds)
 
-    #Function that allows bird to choose next action
+    #Function that assigns birds next state and action
     def perform_step(self):
         for i in range(self.numbirds):
             if self.actions[i] == 'V':
@@ -342,7 +342,7 @@ class Birds(object):
         collision_penalty = -5.0 if self.is_in_collision(i) else 0.0
         return base_reward + collision_penalty
 
-    #Alternative to Q-learning
+    #Alternative to Q-learning ---> we won't use
     def Ried_learning(self):
         for i in range(self.numbirds):
             s = ternary(self.prev_obs[i].values())
