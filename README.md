@@ -6,7 +6,7 @@ The work builds heavily on [andredelft/flock-learning](https://github.com/andred
 
 
 The classes [birds](birds.py) and [field](field.py) have been updated in order to include the effect of the cost mentioned above (which was not present in the original codebae). Accordingly, the code, data, and plots corresponding to each case can be found respctively here:
-[without cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/46395d31d13ad643b41fb04fa4e2bbfd6f89b76b/With%20Cost) and [with cost]([With Cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/c3dff627de1ec89de4f970ba6b436d804fa5e72f/With%20Cost)).
+[without cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/46395d31d13ad643b41fb04fa4e2bbfd6f89b76b/With%20Cost) and [with cost](https://github.com/layalgt/Reinforcement-Learning-Project/tree/c3dff627de1ec89de4f970ba6b436d804fa5e72f/With%20Cost)).
 
 
 Note on the use of AI: ChatGPT was used to assist with technical commands related to creating ZIP files for saving generated results and for adjusting image scaling parameters for plotting purposes.
